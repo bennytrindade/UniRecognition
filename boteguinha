@@ -1,0 +1,82 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/bennytrindade/UniRecognition/blob/main/boteguinha\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "ojCvokTZgjUv",
+        "outputId": "95ebb9a8-2133-432c-82d8-a9ac6cea3361",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Execução FIFO:\n",
+            "Executando Processo P1\n",
+            "Executando Processo P3\n",
+            "Executando Processo P4\n",
+            "Executando Processo P6\n",
+            "Executando Processo P2\n",
+            "Executando Processo P5\n",
+            "Execução SJF:\n",
+            "Executando Processo P3\n",
+            "Executando Processo P4\n",
+            "Executando Processo P1\n",
+            "Executando Processo P6\n",
+            "Executando Processo P2\n",
+            "Executando Processo P5\n",
+            "Execução RR:\n",
+            "Executando Processo P3\n",
+            "Executando Processo P3\n",
+            "Executando Processo P4\n",
+            "Executando Processo P4\n",
+            "Executando Processo P1\n",
+            "Executando Processo P1\n",
+            "Executando Processo P6\n",
+            "Executando Processo P6\n",
+            "Executando Processo P2\n",
+            "Executando Processo P2\n",
+            "Executando Processo P5\n",
+            "Executando Processo P5\n",
+            "Execução MLFQ:\n",
+            "Executando Processo P3\n",
+            "Executando Processo P4\n",
+            "Executando Processo P1\n",
+            "Executando Processo P6\n",
+            "Executando Processo P2\n",
+            "Executando Processo P5\n"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Damos-lhe as boas-vindas ao Colaboratory",
+      "toc_visible": true,
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
